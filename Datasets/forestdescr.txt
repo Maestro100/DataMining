@@ -1,0 +1,4 @@
+The data set contains plant lists from 246 nemoral forests in the
+Southern Finland. All 206 attributes are plant species. The data is
+confidental, and therefore the species corresponding to number codes
+cannot be revealed.
